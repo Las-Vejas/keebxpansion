@@ -2,6 +2,8 @@
 name = "firmware"
 version = "0.1.0"
 edition = "2024"
+description = "RP2354 keyboard firmware driver"
+license = "MIT"
 
 [dependencies]
 xpanse-api = "0.2.2"
