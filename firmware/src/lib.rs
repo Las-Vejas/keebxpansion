@@ -20,8 +20,8 @@ pub struct KeebDriver;
 // on what resistor combination
 impl DriverMeta for KeebDriver {
     const ID: ModuleID = ModuleID {
-        md0: ModuleDetectResistor::R1K6,
-        md1: ModuleDetectResistor::R1K5,
+        md0: ModuleDetectResistor::R1K,
+        md1: ModuleDetectResistor::R9K1,
     };
 }
 
