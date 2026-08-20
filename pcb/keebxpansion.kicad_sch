@@ -2347,10 +2347,10 @@
 			)
 		)
 		(pin "1"
-			(uuid "e3d736e5-2809-4c5c-8ca0-9ef64f4cf403")
+			(uuid "e3d736e5-2809-4c5c-8ca0-9ef64f4cf404")
 		)
 		(pin "2"
-			(uuid "5070d9e6-df4c-4bd1-8cac-5c54810cd701")
+			(uuid "5070d9e6-df4c-4bd1-8cac-5c54810cd702")
 		)
 		(instances
 			(project "keebxpansion"
@@ -2518,10 +2518,10 @@
 			)
 		)
 		(pin "1"
-			(uuid "7be7a40c-2da6-4910-94a1-eb7b4dcdf0df")
+			(uuid "7be7a40c-2da6-4910-94a1-eb7b4dcdf0e0")
 		)
 		(pin "2"
-			(uuid "fc2ae727-7f32-48c9-99dc-b8d6daec092d")
+			(uuid "fc2ae727-7f32-48c9-99dc-b8d6daec092e")
 		)
 		(instances
 			(project "keebxpansion"
@@ -2689,10 +2689,10 @@
 			)
 		)
 		(pin "1"
-			(uuid "7be7a40c-2da6-4910-94a1-eb7b4dcdf0df")
+			(uuid "7be7a40c-2da6-4910-94a1-eb7b4dcdf0e1")
 		)
 		(pin "2"
-			(uuid "fc2ae727-7f32-48c9-99dc-b8d6daec092d")
+			(uuid "fc2ae727-7f32-48c9-99dc-b8d6daec092f")
 		)
 		(instances
 			(project "keebxpansion"
