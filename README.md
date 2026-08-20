@@ -1,8 +1,13 @@
 # keebxpansion
-
 This is an expansion module for the [Hackxpansion Console](https://github.com/hackclub/Hackxpansion). This module features 3 LEDs and one hotswappable MX switch. The module is intended to be used for clicker games like flappy bird or Dino run.
-
 The switch is on GPIO 0 and the LEDs are on GPIOs 1 to 3.
+
+## Gallery
+
+| | |
+|---|---|
+| ![keebxpansion image 1](https://cdn.hackclub.com/01a01f32-9782-7d60-a545-872b9fd73f89/image.png) | ![keebxpansion image 2](https://cdn.hackclub.com/01a01f8c-e635-783d-82c4-c05a96a912fa/file-7bf6dc7fc53e973fb3c7d25378520414.png) |
+| ![keebxpansion image 3](https://cdn.hackclub.com/01a01f8c-e8ef-795e-8d21-7d4406244cb3/image.png) | ![keebxpansion image 4](https://cdn.hackclub.com/01a01f8c-eb8a-773a-a46d-866f61d93d9d/image.png) |
 
 ## BOM
 |quantity|item               |price |link                                                                                                                                                                                                                                           |notes   |
