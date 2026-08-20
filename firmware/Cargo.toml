@@ -1,6 +1,6 @@
 [package]
 name = "keebxpansion"
-version = "0.1.0"
+version = "0.1.1"
 edition = "2024"
 description = "RP2354 keyboard firmware driver"
 license = "MIT"
