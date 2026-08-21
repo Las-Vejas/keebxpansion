@@ -5364,9 +5364,9 @@ checksum = "ec7a2a501ed189703dba8b08142f057e887dfc4b2cc4db2d343ac6376ba3e0b9"
 
 [[package]]
 name = "xpanse-api"
-version = "0.2.2"
+version = "0.2.3"
 source = "registry+https://github.com/rust-lang/crates.io-index"
-checksum = "7fe22999af1d7aaa8f94560f08fecd7cb12d3658aec44c16396bcea5b02447af"
+checksum = "2b93e489b8f1be94a57c4336bae81102dcfd0a4b906f55091458d32c13fb0dc2"
 dependencies = [
  "defmt",
  "embassy-futures",

@@ -6,4 +6,4 @@ description = "RP2354 keyboard firmware driver"
 license = "MIT"
 
 [dependencies]
-xpanse-api = "0.2.2"
+xpanse-api = "0.2.3"
